@@ -1,0 +1,59 @@
+---
+title: "Abel's Journal"
+output: html_notebook
+---
+
+<mark> Abel, from now on, please use this .rmd file and update it weekly. I've copied your entries below. For week 3, just add another entry that follows a similar format, then upload this exact .rmd file to a single github repository (note that you created different repositories for weeks 1 and 2, and we only want to have a single repository that Ani and I are invited to as collaborators). Each week you will (1) downolad this .rmd file from Github, (2) review the feedback from Ani and me, (3) add a new entry, and (4) upload the .rmd file back to the exact same repository using the exact same file name. This will overwrite the previous version of the file, but also keep a record of the previous version. That's what we're looking for here. Please feel free to let one of us know if we can be of more assistance. - Jonathon
+
+# 1st Week: Chat GPT: Five priorities for research.
+
+For decades technological advances have been a critical part of the scientific run and constant evolution of the human society that we know. From the invention of the first analog computer to the use of mobile devices in our daily lives, the adaptation process is always complicated and sometimes rough for some users. Chat GPT is not the exception to the rule, this modeling language came into our society to stay. However, every new technology presents its pros and cons. Van Dis highlights in her paper five points that can be impacted by using Chat GPT in research. The necessity of human verification on the outputs present by researchers is the one that caught my attention because this software can learn so fast and start thinking like a human being and produce research papers as good as humans do. The necessity of having regulatory software or identity will be critical to maintaining opportunities for researchers.
+
+
+# 2nd Week: Equitable hiring strategies towards a diversified faculty.
+
+It is well known that companies, universities, and other hiring institutions have been very discriminatory in their selection processes. Age, Sex, Ethnicity, and Sexual Orientation are questioned and used as criteria to determine the capacity of an employee. These previously mentioned "criteria" is unacceptable and will not demonstrate the qualities and capacities that person has. With the creation of new methods that will improve an equally hiring proccess, considering the capacities and education of the future employee with asurance a more diverse and well nourish environment for people. I would like to higlight that as international student, diversity brings more and different perspectives to the table, making any tasks easier to solve.
+
+<mark> Good summaries of the papers. Going forward, give us a bit more about what you specifically learned and or took away from the class discussion. Give us a bit of analysis, tell us your personal thoughts, and show us that you are critically thinking about these issues. How will you use AI going forward? Where do you draw the line? What are your thoughts on the value and role of the diversity statement in hiring? To be clear, I don't need you to go back and make any edits, I just want to give you some food for thought for future entries. - Jonathon 
+
+
+# 3rd Week: Fooling Ourselves 
+
+Due to some lab work, I was not able to attend last Wednesday class, but I read the paper. As a young scientist, I can feel myself identify with what is written in the article. So far, I have experienced two or maybe three situations where my results did not fulfill my expectations, and I tried to blame the experimental design, the samples, or equipment about my poor performance. During the process of finding a explanation about the issue I was not conscious that I was the one originating the problem. It is so easy for us to only focus on the expectations and the desire results that we make more small mistakes or errors than we expected. I would recommend to other young scientists, colleagues, and peers that sometimes a brief break, will help us to recharge our batteries and focus more on those tiny details or mistakes that later could foolish us. 
+
+
+
+# 4th Week: Do Financial Conflicts of Interest Bias Research? An Inquiry into the ‘‘Funding Effect’’ Hypothesis
+
+How does this impact our realm of science? That's a question that came to my mind when I was reading this article. It is clear that companies invest millions of dollars on research to prove that their products are good, healthy, or fulfill the expectatives that they advertised. From the scientists' side, it is alwyas great to have the funds and sponsors required to complete a project, but the same funding can be double-edged weapon. The companies expect to obtain the most benefitial result, and that produces a big pressure on the researchers. I consider that scientists could receive the money from the companies, but they will strictly focus on developing the best outcome no matter the expectations of the sponsor. Scientist must completed researchers in the most freely and independent way. 
+
+
+# 5th Week: Citizen science in environmental and ecological sciences 
+
+Citizen science is probably the coolest and most interesting "tool" I've discovered this year. The way in which members of the community and the public become involved in large and important projects is unique. Their collaborative participation in scientific research enriches the approaches used in a study. The easiest way to involve the public in our projects includes data collection and increasing their engagement. Additionally, we could mention that reducing the costs of a study is another benefit of citizen science. Different fields, including ecology, astronomy, biology, and others, make use of citizen science.
+
+Personally, I plan to use this new approach. Our aquaculture projects involve a lot of live animals that require a great deal of attention. After some training, I can rely on individuals with non-scientific backgrounds to evaluate my fish. It will be a cheaper and more accessible option. However, like every new tool, time will determine its success.
+
+
+#6th Week: When are hypotheses useful in ecology and evolution? 
+
+This research paper was extensive, yet it proved to be a valuable tool for reinforcing knowledge I had previously acquired. The use of hypotheses is valuable in various situations, such as testing predictions, where researchers can formulate more precise predictions about ecological and evolutionary processes. For example, hypotheses can describe how a particular species will adapt to changes in its environment. From an evolutionary perspective, hypotheses can aid in predicting outcomes in phenotypic changes.
+
+The use of hypotheses is fundamental for identifying patterns and trends that affect ecosystems. For this reason, this paper helps us understand the impact of hypotheses at the ecological and evolutionary levels, allowing scientists to generate more knowledge and make more accurate predictions.
+
+#7th Week: Predatory journals: no definition, no defence 
+
+I will use one word to describe a predatory journal: 'scam.' Why am I using this word? Predatory journals are unprincipled websites that take advantage of inexperienced young scientists and sometimes older scientists to promote their studies. As a young scientist, I would love to see my research published on websites with a high impact, but it takes time and a lot of effort to get there. Additionally, the monetary factor plays a significant role in deciding where to publish our studies. These types of websites typically prioritize their profit over the quality and seriousness of scientific research.
+
+The most significant concerns about predatory journals are the low quality of their peer review, falsified data, and additional fees charged to researchers, among other issues.
+
+The increasing number of predatory journals is a problem because it impacts the confidence of scientists and researchers when it comes to publishing their work. These websites can mislead information and create confusion for people who are not involved in science, which goes against the principles of science, where we seek to find real answers to various phenomena.
+
+
+# 8th Week: A survey on how preregistration affects the research workflow: better science but more work. 
+
+After reading the article, I learned more about this new tool that is changing the game for researchers. First of all, the way I understood preregistration was through the integration of several plans and documents before completing a research project. The primary objective of this process is to improve the transparency and credibility of a specific study. Preregistration is highly valuable in various fields such as ecological sciences, social sciences, geography, and forestry sciences. It's important to emphasize the different components of preregistration, which include hypotheses, research tools, data analysis, potential outcomes, and the timeline. By addressing these factors, researchers can conduct their studies within the estimated timeframe.
+
+My main concern about preregistration is the variety of websites used to validate this information. There are many options, but which one is the most trustworthy and useful? Hopefully, with time, we will be able to harness the high potential present in this tool.
+
+
