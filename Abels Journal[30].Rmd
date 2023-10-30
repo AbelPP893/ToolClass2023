@@ -1,6 +1,8 @@
 ---
 title: "Abel's Journal"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 <mark> Abel, from now on, please use this .rmd file and update it weekly. I've copied your entries below. For week 3, just add another entry that follows a similar format, then upload this exact .rmd file to a single github repository (note that you created different repositories for weeks 1 and 2, and we only want to have a single repository that Ani and I are invited to as collaborators). Each week you will (1) downolad this .rmd file from Github, (2) review the feedback from Ani and me, (3) add a new entry, and (4) upload the .rmd file back to the exact same repository using the exact same file name. This will overwrite the previous version of the file, but also keep a record of the previous version. That's what we're looking for here. Please feel free to let one of us know if we can be of more assistance. - Jonathon
@@ -35,19 +37,21 @@ Citizen science is probably the coolest and most interesting "tool" I've discove
 Personally, I plan to use this new approach. Our aquaculture projects involve a lot of live animals that require a great deal of attention. After some training, I can rely on individuals with non-scientific backgrounds to evaluate my fish. It will be a cheaper and more accessible option. However, like every new tool, time will determine its success.
 
 
-#6th Week: When are hypotheses useful in ecology and evolution? 
+# 6th Week: When are hypotheses useful in ecology and evolution? 
 
 This research paper was extensive, yet it proved to be a valuable tool for reinforcing knowledge I had previously acquired. The use of hypotheses is valuable in various situations, such as testing predictions, where researchers can formulate more precise predictions about ecological and evolutionary processes. For example, hypotheses can describe how a particular species will adapt to changes in its environment. From an evolutionary perspective, hypotheses can aid in predicting outcomes in phenotypic changes.
 
 The use of hypotheses is fundamental for identifying patterns and trends that affect ecosystems. For this reason, this paper helps us understand the impact of hypotheses at the ecological and evolutionary levels, allowing scientists to generate more knowledge and make more accurate predictions.
 
-#7th Week: Predatory journals: no definition, no defence 
+# 7th Week: Predatory journals: no definition, no defence 
 
 I will use one word to describe a predatory journal: 'scam.' Why am I using this word? Predatory journals are unprincipled websites that take advantage of inexperienced young scientists and sometimes older scientists to promote their studies. As a young scientist, I would love to see my research published on websites with a high impact, but it takes time and a lot of effort to get there. Additionally, the monetary factor plays a significant role in deciding where to publish our studies. These types of websites typically prioritize their profit over the quality and seriousness of scientific research.
 
 The most significant concerns about predatory journals are the low quality of their peer review, falsified data, and additional fees charged to researchers, among other issues.
 
 The increasing number of predatory journals is a problem because it impacts the confidence of scientists and researchers when it comes to publishing their work. These websites can mislead information and create confusion for people who are not involved in science, which goes against the principles of science, where we seek to find real answers to various phenomena.
+
+<mark> Yes, it can be very challenging to know what "counts" as a reputable journal. - Jonathon
 
 
 # 8th Week: A survey on how preregistration affects the research workflow: better science but more work. 
@@ -56,4 +60,4 @@ After reading the article, I learned more about this new tool that is changing t
 
 My main concern about preregistration is the variety of websites used to validate this information. There are many options, but which one is the most trustworthy and useful? Hopefully, with time, we will be able to harness the high potential present in this tool.
 
-
+<mark> I don't know of any concerns about trustworthiness of these pre-registration sites, but I get it, there are problems with knowing which way to turn to get started. - Jonathon
