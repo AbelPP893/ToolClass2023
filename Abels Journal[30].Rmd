@@ -1,6 +1,8 @@
 ---
 title: "Abel's Journal"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 <mark> Abel, from now on, please use this .rmd file and update it weekly. I've copied your entries below. For week 3, just add another entry that follows a similar format, then upload this exact .rmd file to a single github repository (note that you created different repositories for weeks 1 and 2, and we only want to have a single repository that Ani and I are invited to as collaborators). Each week you will (1) downolad this .rmd file from Github, (2) review the feedback from Ani and me, (3) add a new entry, and (4) upload the .rmd file back to the exact same repository using the exact same file name. This will overwrite the previous version of the file, but also keep a record of the previous version. That's what we're looking for here. Please feel free to let one of us know if we can be of more assistance. - Jonathon
@@ -79,6 +81,8 @@ Incentives for Peer Review: Should there be incentives to encourage individuals 
 
 These are some of the questions and ideas that can be explored to address the impact of author prominence on peer review. 
 
+<span style="color:red">I personally prefer to have a double-blind peer review system. I want to be anonymous as a reviewer, and I don't want to know who the authors are of the papers I review, because I know that can impact my thinking. - Jonathon</span>
+
 
 # 10th Science communication in experimental biology: experiences and recommendations.
 
@@ -89,7 +93,7 @@ Engaging with science at a young age can significantly influence how effectively
 
 Is it possible to have an accessible science for everyone – how relevant is scientific communication to our different fields?
 
-
+<span style="color:red">I really feel like something that's lacking for us is explicit training on how to engage with the general public. I have a relatively easy time talking to people, but I tend to shy away from talking about my work because it is very hard for me to communicate what I do effectively. - Jonathon</span>
 
 
 
